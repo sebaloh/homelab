@@ -1,2 +1,3 @@
-# homelab
+# Homelab
+
 This repository contains the documentation and all configurations for my homelab.
