@@ -18,6 +18,8 @@ This document is a shortened form of the original `Docker` [documentation]( http
 
 ## Installation
 
+**Note:** There are scripts to install and remove Docker in [`scripts/`](scripts). They run the exact lines from the tutorial below.
+
 ### 1. Detect distribution
 
 ```sh
@@ -97,7 +99,7 @@ docker run hello-world
 
 The following section is directly copied from the official Docker documentation. For more and detailed information visit their [website](https://docs.docker.com/engine/install/ubuntu/#uninstall-docker-engine).
 
-**Note:** There are scripts to install and remove Docker in `/scripts`. They run the exact lines from the tutorial below.
+**Note:** There are scripts to install and remove Docker in [`scripts/`](scripts). They run the exact lines from the tutorial below.
 
 ### 1. Stop Docker services
 
